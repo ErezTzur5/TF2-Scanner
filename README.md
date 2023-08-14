@@ -32,8 +32,11 @@ In terms of inventory:
 
 The top 10 most valuable items in each player's inventory are showcased, sorted in descending order of value.
 
-Visual representation:
+Visual representation(prices shown too):
 
 ![Capture](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/61f2fe3f-c6d4-497c-971b-2df68695da67)
 
 ![Capture2](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/825ec075-f32a-4983-bf76-2ef31ed2810a)
+
+notes: i didnt publish the full-code yet in the future i probably will
+Discrod: erezur#4734
