@@ -2,6 +2,8 @@ Welcome,
 
 Last week, I had a conversation with a friend who reminded me of our past activity: scanning players from Team Fortress 2 servers to check their played hours and inventory items. This sparked an idea in me to create an executable (exe) file that replicates this process.
 
+This scan 48 players in under 2 mins
+
 For the realization of this project, I employed several technologies: Python, tkinter, pyinstaller, APIs, Web-Scraping, and multiprocessing.
 
 The process begins by logging into a server, followed by opening the console ( ` ) and entering the "status" command:
