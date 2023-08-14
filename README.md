@@ -34,9 +34,11 @@ The top 10 most valuable items in each player's inventory are showcased, sorted 
 
 Visual representation(prices shown too):
 
-![Capture](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/61f2fe3f-c6d4-497c-971b-2df68695da67)
+![Capture](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/9df92ffc-1689-447b-a962-ce32fa60b93f)
+![Capture2](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/56673c1c-febf-4846-8100-cebc19533082)
+![Capture3](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/74a381d0-d0af-46a0-add9-9f05dc407225)
 
-![Capture2](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/825ec075-f32a-4983-bf76-2ef31ed2810a)
 
 notes: i didnt publish the full-code yet in the future i probably will
-Discrod: erezur#4734
+
+Discord: erezur#4734
