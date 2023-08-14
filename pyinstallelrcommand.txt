@@ -1,0 +1,1 @@
+pyinstaller --icon=tf_icon.ico --onefile --collect-data sv_ttk gui.py

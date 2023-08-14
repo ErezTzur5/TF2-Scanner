@@ -1,0 +1,865 @@
+Name: Tazuna
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '11 days ago'}
+Link: https://backpack.tf/profiles/76561198326172306
+Items:
+  Name: Unusual Pyromancer's Mask  Traded Circling Heart Pink as Hell  Price: ~465 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/pyro_pyromancers_mask.dd5887643908365581d33df02cb7a474c994dc6d.png
+Items:
+  Name: Collector's Conscientious Objector  Recipe output killstreak professional spells decal  Price: ~116.09 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/5072773634742634173/9D14F3E0391D1A2769AC5B9840C8F73E542EF878/
+Items:
+  Name: Unique Catastrophic Companions  Found in Crate Pink as Hell  Price: ~74.39 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2015_catastrophic_companions.84fd8d5b47a76a5a90b769aad9fb7bb393741d84.png
+Items:
+  Name: Unusual Tough Stuff Muffs  Gifted Disco Beat Down Pink as Hell  Price: ~66 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_earmuffs_style1.563d793eb6bdcf4bb0f67a4b7561ee81f2722bb5.png
+Items:
+  Name: Strange Wrench  MvM Badge completion reward killstreak professional australium  Price: ~42.8 keys  Image: /images/440/backpack/weapons/w_models/w_wrench_gold.png
+Items:
+  Name: Decorated Weapon Shotgun  War Paint Isotope Gift Wrapped festivized  Price: ~38 keys  Image: https://scrap.tf/img/items/warpaint/Shotgun_253_3_1.png
+Items:
+  Name: Decorated Weapon Medi Gun  Found in Crate Hot Blitzkrieg festivized killstreak professional  Price: ~31 keys  Image: https://scrap.tf/img/items/warpaint/Medi%20Gun_81_5_1.png
+Items:
+  Name: Strange Force-A-Nature  MvM Badge completion reward killstreak professional australium  Price: ~26.84 keys  Image: /images/440/backpack/weapons/c_models/c_double_barrel_gold.png
+Items:
+  Name: Unusual Taunt: Conga  Found in Crate Fountain of Delight  Price: ~25.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Strange Flame Thrower  MvM Badge completion reward festivized australium  Price: ~22.49 keys  Image: /images/440/backpack/weapons/c_models/c_flamethrower/c_flamethrower_gold.png
+
+Name: liskec19
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199191276682
+
+Name: Speedoe36
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561198072774823
+Items:
+  Name: Strange Scattergun Timed Drop killstreak specialized specialised australium  Price: ~44.54 keys  Image: /images/440/backpack/weapons/c_models/c_scattergun_gold.png
+Items:
+  Name: Strange Medi Gun Timed Drop australium  Price: ~42.22 keys  Image: /images/440/backpack/weapons/c_models/c_medigun/c_medigun_gold.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Timed Drop  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Strange Pistol Timed Drop Shot to Hell killstreak professional  Price: 10 keys  Image: https://scrap.tf/img/items/warpaint/Pistol_74_2_0.png
+Items:
+  Name: Unique Taunt: Rock, Paper, Scissors  Timed Drop  Price: ~1.95 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rps.7e720af90d50ede3347b0718514dfd4f1b6e1b0f.png
+Items:
+  Name: Strange Jag Timed Drop Smalltown Bringdown Mk.II  Price: ~1.92 keys  Image: https://scrap.tf/img/items/warpaint/Jag_143_1_0.png
+Items:
+  Name: Unique Taunt: Texas Twirl 'Em  Timed Drop  Price: ~1.85 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_texas_twirl_em.4b140a800cc4c42200ac366eadb8bab171a2fbec.png
+Items:
+  Name: Unique Taunt: The Homerunner's Hobby  Timed Drop  Price: ~1.75 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_the_homerunners_hobby.ae7959d359664f15f12dfeaaeec58fd20e536295.png
+Items:
+  Name: Decorated Weapon Ubersaw Timed Drop Polter-Guised  Price: ~1.52 keys  Image: https://scrap.tf/img/items/warpaint/Ubersaw_295_1_0.png
+Items:
+  Name: Unique Taunt: Rancho Relaxo  Timed Drop  Price: ~1.48 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rancho_relaxo.a6273e59acea8c993b16fe91ef9b0bfed453ab04.png
+
+Name: ImperialFister
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198095637232
+Items:
+  Name: Haunted Chicken Kiev  Found in Crate  Price: ~23.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_heavy_robin.76f9924b153b853b37c3c68e8ba29ae690ce3f48.png
+Items:
+  Name: Unusual Taunt: Luxury Lounge  Purchased Pyrophoric Personality  Price: ~19 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_luxury_lounge.9b77cf8be81ad4cce350e6fb5af929cb80e11853.png
+Items:
+  Name: Unique Combustible Cutie  Found in Crate A Deep Commitment to Purple  Price: ~18.22 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2016_combustible_cutie.a4b5aada24167f463d1ecfa91b590c49f767c05b.png
+Items:
+  Name: Haunted Medimedes  Found in Crate  Price: ~15 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_medicmedes.93fdb973e0f8c722bff4a12faa8e12f6ab4eb5ac.png
+Items:
+  Name: Decorated Weapon War Paint  Found in Crate Dream Piped  Price: ~12.5 keys</span> <span style="color: #D32CE6">A  Image: https://scrap.tf/img/items/warpaint/War%20Paint_212_1_0.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop killstreak professional decal  Price: ~7.51 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/1777209780711911113/9372CBD50D3F4A3DE77A390BCBE9B8B46081927C/
+Items:
+  Name: Unique Magical Mercenary  Purchased A Deep Commitment to Purple  Price: ~7.17 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_the_magical_mercenary.07a9f1db2440d76bd6f7a27bc6b283d7ddc470c6.png
+Items:
+  Name: Haunted Sir Shootsalot  Found in Crate  Price: ~6.3 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_sir_shootsalot.95c383bb40c809535d3794b3a29473952ad9aa15.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Purchased  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+
+Name: Serijiski Silovatelj
+Hours: {'hours': '0.767'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199217846053
+
+Name: Tazuna
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '11 days ago'}
+Link: https://backpack.tf/profiles/76561198326172306
+Items:
+  Name: Unusual Pyromancer's Mask  Traded Circling Heart Pink as Hell  Price: ~465 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/pyro_pyromancers_mask.dd5887643908365581d33df02cb7a474c994dc6d.png
+Items:
+  Name: Collector's Conscientious Objector  Recipe output killstreak professional spells decal  Price: ~116.09 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/5072773634742634173/9D14F3E0391D1A2769AC5B9840C8F73E542EF878/
+Items:
+  Name: Unique Catastrophic Companions  Found in Crate Pink as Hell  Price: ~74.39 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2015_catastrophic_companions.84fd8d5b47a76a5a90b769aad9fb7bb393741d84.png
+Items:
+  Name: Unusual Tough Stuff Muffs  Gifted Disco Beat Down Pink as Hell  Price: ~66 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_earmuffs_style1.563d793eb6bdcf4bb0f67a4b7561ee81f2722bb5.png
+Items:
+  Name: Strange Wrench  MvM Badge completion reward killstreak professional australium  Price: ~42.8 keys  Image: /images/440/backpack/weapons/w_models/w_wrench_gold.png
+Items:
+  Name: Decorated Weapon Shotgun  War Paint Isotope Gift Wrapped festivized  Price: ~38 keys  Image: https://scrap.tf/img/items/warpaint/Shotgun_253_3_1.png
+Items:
+  Name: Decorated Weapon Medi Gun  Found in Crate Hot Blitzkrieg festivized killstreak professional  Price: ~31 keys  Image: https://scrap.tf/img/items/warpaint/Medi%20Gun_81_5_1.png
+Items:
+  Name: Strange Force-A-Nature  MvM Badge completion reward killstreak professional australium  Price: ~26.84 keys  Image: /images/440/backpack/weapons/c_models/c_double_barrel_gold.png
+Items:
+  Name: Unusual Taunt: Conga  Found in Crate Fountain of Delight  Price: ~25.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Strange Flame Thrower  MvM Badge completion reward festivized australium  Price: ~22.49 keys  Image: /images/440/backpack/weapons/c_models/c_flamethrower/c_flamethrower_gold.png
+
+Name: liskec19
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199191276682
+
+Name: Speedoe36
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561198072774823
+Items:
+  Name: Strange Scattergun Timed Drop killstreak specialized specialised australium  Price: ~44.54 keys  Image: /images/440/backpack/weapons/c_models/c_scattergun_gold.png
+Items:
+  Name: Strange Medi Gun Timed Drop australium  Price: ~42.22 keys  Image: /images/440/backpack/weapons/c_models/c_medigun/c_medigun_gold.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Timed Drop  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Strange Pistol Timed Drop Shot to Hell killstreak professional  Price: 10 keys  Image: https://scrap.tf/img/items/warpaint/Pistol_74_2_0.png
+Items:
+  Name: Unique Taunt: Rock, Paper, Scissors  Timed Drop  Price: ~1.95 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rps.7e720af90d50ede3347b0718514dfd4f1b6e1b0f.png
+Items:
+  Name: Strange Jag Timed Drop Smalltown Bringdown Mk.II  Price: ~1.92 keys  Image: https://scrap.tf/img/items/warpaint/Jag_143_1_0.png
+Items:
+  Name: Unique Taunt: Texas Twirl 'Em  Timed Drop  Price: ~1.85 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_texas_twirl_em.4b140a800cc4c42200ac366eadb8bab171a2fbec.png
+Items:
+  Name: Unique Taunt: The Homerunner's Hobby  Timed Drop  Price: ~1.75 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_the_homerunners_hobby.ae7959d359664f15f12dfeaaeec58fd20e536295.png
+Items:
+  Name: Decorated Weapon Ubersaw Timed Drop Polter-Guised  Price: ~1.52 keys  Image: https://scrap.tf/img/items/warpaint/Ubersaw_295_1_0.png
+Items:
+  Name: Unique Taunt: Rancho Relaxo  Timed Drop  Price: ~1.48 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rancho_relaxo.a6273e59acea8c993b16fe91ef9b0bfed453ab04.png
+
+Name: ImperialFister
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198095637232
+Items:
+  Name: Haunted Chicken Kiev  Found in Crate  Price: ~23.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_heavy_robin.76f9924b153b853b37c3c68e8ba29ae690ce3f48.png
+Items:
+  Name: Unusual Taunt: Luxury Lounge  Purchased Pyrophoric Personality  Price: ~19 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_luxury_lounge.9b77cf8be81ad4cce350e6fb5af929cb80e11853.png
+Items:
+  Name: Unique Combustible Cutie  Found in Crate A Deep Commitment to Purple  Price: ~18.22 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2016_combustible_cutie.a4b5aada24167f463d1ecfa91b590c49f767c05b.png
+Items:
+  Name: Haunted Medimedes  Found in Crate  Price: ~15 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_medicmedes.93fdb973e0f8c722bff4a12faa8e12f6ab4eb5ac.png
+Items:
+  Name: Decorated Weapon War Paint  Found in Crate Dream Piped  Price: ~12.5 keys</span> <span style="color: #D32CE6">A  Image: https://scrap.tf/img/items/warpaint/War%20Paint_212_1_0.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop killstreak professional decal  Price: ~7.51 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/1777209780711911113/9372CBD50D3F4A3DE77A390BCBE9B8B46081927C/
+Items:
+  Name: Unique Magical Mercenary  Purchased A Deep Commitment to Purple  Price: ~7.17 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_the_magical_mercenary.07a9f1db2440d76bd6f7a27bc6b283d7ddc470c6.png
+Items:
+  Name: Haunted Sir Shootsalot  Found in Crate  Price: ~6.3 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_sir_shootsalot.95c383bb40c809535d3794b3a29473952ad9aa15.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Purchased  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+
+Name: The Super-Sized McShizzle Man
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561198129517644
+
+Name: Johnny
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '4 months ago'}
+Link: https://backpack.tf/profiles/76561198880265246
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Unique BINOCULUS!  Found in Crate  Price: ~1.75 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2019_binoculus.fda6b3227a8c7ef29dd7e73b7e256e7000226f50.png
+Items:
+  Name: Unique Hawaiian Hangover  Found in Crate Muskelmannbraun  Price: ~54.44 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum22_hawaiian_hangover.b20ec82e0ba2140f93894bab4dbc0a7f365a260b.png
+Items:
+  Name: Strange Grenade Launcher  Found in Crate  Price: ~31.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/w_grenadelauncher.a430fe11337c5f14f68126a1d3d48fe4a67273af.png
+Items:
+  Name: Strange Barefoot Brawler  Found in Crate Noble Hatter's Violet  Price: ~11.81 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum22_barefoot_brawler.1e8fde486244bb9e49008cde99a3a4ba65a3c64b.png
+Items:
+  Name: Strange Silver Botkiller Stickybomb Launcher Mk.I  MvM Badge completion reward  Price: ~6.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/fob_h_stickybomb.5e9be44dc0ded5c76e38ce16d9f883e308ab5b59.png
+Items:
+  Name: Unique AWPer Hand  Crafted  Price: ~4.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_csgo_awp.44054e3d0e231493fc286ce6f365b14e4b1b3260.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop  Price: ~4.83 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_picket.154051b579a1f9930968b832f55db42476ffb555.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop decal  Price: ~4.83 ref  Image: https://steamuserimages-a.akamaihd.net/ugc/1841408580102879769/F8538DBA6434C3F98C34391528AB44FC5C0E776A/
+
+Name: 27Pow
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561199171189237
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Unique Fortified Compound  Timed Drop killstreak specialized specialised  Price: ~55.56 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_bow_thief.92137c75e9b97b0f59d6c64471dd60df267b48a9.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+
+Name: flopa fish
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199472113686
+
+Name: 💟Sparky The Oni💟
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561198288519218
+Items:
+  Name: Strange Knife Timed Drop Dressed to Kill  Price: ~14.87 keys  Image: https://scrap.tf/img/items/warpaint/Knife_78_1_0.png
+Items:
+  Name: Decorated Weapon Knife Timed Drop Horror Holiday  Price: ~5.5 keys  Image: https://scrap.tf/img/items/warpaint/Knife_239_4_0.png
+Items:
+  Name: Unique Onimann  Timed Drop Color No. --  Price: ~2.15 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2022_onimann.8522dab8c25696d551f77a3d1fdcebdf70f8d5d1.png
+Items:
+  Name: Genuine Stainless Pot  Timed Drop  Price: ~1.05 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/soldier_pot.b07c9f001ee8f838ae3a61da554b36f649619465.png
+Items:
+  Name: Unique Festive Force-A-Nature  Timed Drop  Price: ~1 key  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_xms_double_barrel.ec785260cb80886a61b3568b38185706d6aab15e.png
+Items:
+  Name: Unique Ham Shank  Timed Drop killstreak specialized specialised  Price: ~54.54 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_ham.85f61f42e7c76e21e38f5134633522c9c5ab1b3b.png
+Items:
+  Name: Unique Cold Snap Coat  Timed Drop  Price: ~38.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/eotl_winter_coat.4be6ac8702cb4db083b8d522cb13669072a05697.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~37.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~37.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Strange Sniper Rifle Timed Drop Eyestalker  Price: ~35.77 ref  Image: https://scrap.tf/img/items/warpaint/Sniper%20Rifle_265_3_0.png
+
+Name: Serijiski Silovatelj
+Hours: {'hours': '0.767'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199217846053
+
+Name: Tazuna
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '11 days ago'}
+Link: https://backpack.tf/profiles/76561198326172306
+Items:
+  Name: Unusual Pyromancer's Mask  Traded Circling Heart Pink as Hell  Price: ~465 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/pyro_pyromancers_mask.dd5887643908365581d33df02cb7a474c994dc6d.png
+Items:
+  Name: Collector's Conscientious Objector  Recipe output killstreak professional spells decal  Price: ~116.09 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/5072773634742634173/9D14F3E0391D1A2769AC5B9840C8F73E542EF878/
+Items:
+  Name: Unique Catastrophic Companions  Found in Crate Pink as Hell  Price: ~74.39 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2015_catastrophic_companions.84fd8d5b47a76a5a90b769aad9fb7bb393741d84.png
+Items:
+  Name: Unusual Tough Stuff Muffs  Gifted Disco Beat Down Pink as Hell  Price: ~66 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_earmuffs_style1.563d793eb6bdcf4bb0f67a4b7561ee81f2722bb5.png
+Items:
+  Name: Strange Wrench  MvM Badge completion reward killstreak professional australium  Price: ~42.8 keys  Image: /images/440/backpack/weapons/w_models/w_wrench_gold.png
+Items:
+  Name: Decorated Weapon Shotgun  War Paint Isotope Gift Wrapped festivized  Price: ~38 keys  Image: https://scrap.tf/img/items/warpaint/Shotgun_253_3_1.png
+Items:
+  Name: Decorated Weapon Medi Gun  Found in Crate Hot Blitzkrieg festivized killstreak professional  Price: ~31 keys  Image: https://scrap.tf/img/items/warpaint/Medi%20Gun_81_5_1.png
+Items:
+  Name: Strange Force-A-Nature  MvM Badge completion reward killstreak professional australium  Price: ~26.84 keys  Image: /images/440/backpack/weapons/c_models/c_double_barrel_gold.png
+Items:
+  Name: Unusual Taunt: Conga  Found in Crate Fountain of Delight  Price: ~25.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Strange Flame Thrower  MvM Badge completion reward festivized australium  Price: ~22.49 keys  Image: /images/440/backpack/weapons/c_models/c_flamethrower/c_flamethrower_gold.png
+
+Name: liskec19
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199191276682
+
+Name: Speedoe36
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561198072774823
+Items:
+  Name: Strange Scattergun Timed Drop killstreak specialized specialised australium  Price: ~44.54 keys  Image: /images/440/backpack/weapons/c_models/c_scattergun_gold.png
+Items:
+  Name: Strange Medi Gun Timed Drop australium  Price: ~42.22 keys  Image: /images/440/backpack/weapons/c_models/c_medigun/c_medigun_gold.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Timed Drop  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Strange Pistol Timed Drop Shot to Hell killstreak professional  Price: 10 keys  Image: https://scrap.tf/img/items/warpaint/Pistol_74_2_0.png
+Items:
+  Name: Unique Taunt: Rock, Paper, Scissors  Timed Drop  Price: ~1.95 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rps.7e720af90d50ede3347b0718514dfd4f1b6e1b0f.png
+Items:
+  Name: Strange Jag Timed Drop Smalltown Bringdown Mk.II  Price: ~1.92 keys  Image: https://scrap.tf/img/items/warpaint/Jag_143_1_0.png
+Items:
+  Name: Unique Taunt: Texas Twirl 'Em  Timed Drop  Price: ~1.85 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_texas_twirl_em.4b140a800cc4c42200ac366eadb8bab171a2fbec.png
+Items:
+  Name: Unique Taunt: The Homerunner's Hobby  Timed Drop  Price: ~1.75 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_the_homerunners_hobby.ae7959d359664f15f12dfeaaeec58fd20e536295.png
+Items:
+  Name: Decorated Weapon Ubersaw Timed Drop Polter-Guised  Price: ~1.52 keys  Image: https://scrap.tf/img/items/warpaint/Ubersaw_295_1_0.png
+Items:
+  Name: Unique Taunt: Rancho Relaxo  Timed Drop  Price: ~1.48 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rancho_relaxo.a6273e59acea8c993b16fe91ef9b0bfed453ab04.png
+
+Name: ImperialFister
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198095637232
+Items:
+  Name: Haunted Chicken Kiev  Found in Crate  Price: ~23.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_heavy_robin.76f9924b153b853b37c3c68e8ba29ae690ce3f48.png
+Items:
+  Name: Unusual Taunt: Luxury Lounge  Purchased Pyrophoric Personality  Price: ~19 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_luxury_lounge.9b77cf8be81ad4cce350e6fb5af929cb80e11853.png
+Items:
+  Name: Unique Combustible Cutie  Found in Crate A Deep Commitment to Purple  Price: ~18.22 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2016_combustible_cutie.a4b5aada24167f463d1ecfa91b590c49f767c05b.png
+Items:
+  Name: Haunted Medimedes  Found in Crate  Price: ~15 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_medicmedes.93fdb973e0f8c722bff4a12faa8e12f6ab4eb5ac.png
+Items:
+  Name: Decorated Weapon War Paint  Found in Crate Dream Piped  Price: ~12.5 keys</span> <span style="color: #D32CE6">A  Image: https://scrap.tf/img/items/warpaint/War%20Paint_212_1_0.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop killstreak professional decal  Price: ~7.51 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/1777209780711911113/9372CBD50D3F4A3DE77A390BCBE9B8B46081927C/
+Items:
+  Name: Unique Magical Mercenary  Purchased A Deep Commitment to Purple  Price: ~7.17 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_the_magical_mercenary.07a9f1db2440d76bd6f7a27bc6b283d7ddc470c6.png
+Items:
+  Name: Haunted Sir Shootsalot  Found in Crate  Price: ~6.3 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_sir_shootsalot.95c383bb40c809535d3794b3a29473952ad9aa15.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Purchased  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+
+Name: The Super-Sized McShizzle Man
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561198129517644
+
+Name: Johnny
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '4 months ago'}
+Link: https://backpack.tf/profiles/76561198880265246
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Unique BINOCULUS!  Found in Crate  Price: ~1.75 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2019_binoculus.fda6b3227a8c7ef29dd7e73b7e256e7000226f50.png
+Items:
+  Name: Unique Hawaiian Hangover  Found in Crate Muskelmannbraun  Price: ~54.44 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum22_hawaiian_hangover.b20ec82e0ba2140f93894bab4dbc0a7f365a260b.png
+Items:
+  Name: Strange Grenade Launcher  Found in Crate  Price: ~31.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/w_grenadelauncher.a430fe11337c5f14f68126a1d3d48fe4a67273af.png
+Items:
+  Name: Strange Barefoot Brawler  Found in Crate Noble Hatter's Violet  Price: ~11.81 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum22_barefoot_brawler.1e8fde486244bb9e49008cde99a3a4ba65a3c64b.png
+Items:
+  Name: Strange Silver Botkiller Stickybomb Launcher Mk.I  MvM Badge completion reward  Price: ~6.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/fob_h_stickybomb.5e9be44dc0ded5c76e38ce16d9f883e308ab5b59.png
+Items:
+  Name: Unique AWPer Hand  Crafted  Price: ~4.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_csgo_awp.44054e3d0e231493fc286ce6f365b14e4b1b3260.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop  Price: ~4.83 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_picket.154051b579a1f9930968b832f55db42476ffb555.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop decal  Price: ~4.83 ref  Image: https://steamuserimages-a.akamaihd.net/ugc/1841408580102879769/F8538DBA6434C3F98C34391528AB44FC5C0E776A/
+
+Name: 27Pow
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561199171189237
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Unique Fortified Compound  Timed Drop killstreak specialized specialised  Price: ~55.56 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_bow_thief.92137c75e9b97b0f59d6c64471dd60df267b48a9.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+
+Name: flopa fish
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199472113686
+
+Name: 💟Sparky The Oni💟
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561198288519218
+Items:
+  Name: Strange Knife Timed Drop Dressed to Kill  Price: ~14.87 keys  Image: https://scrap.tf/img/items/warpaint/Knife_78_1_0.png
+Items:
+  Name: Decorated Weapon Knife Timed Drop Horror Holiday  Price: ~5.5 keys  Image: https://scrap.tf/img/items/warpaint/Knife_239_4_0.png
+Items:
+  Name: Unique Onimann  Timed Drop Color No. --  Price: ~2.15 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2022_onimann.8522dab8c25696d551f77a3d1fdcebdf70f8d5d1.png
+Items:
+  Name: Genuine Stainless Pot  Timed Drop  Price: ~1.05 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/soldier_pot.b07c9f001ee8f838ae3a61da554b36f649619465.png
+Items:
+  Name: Unique Festive Force-A-Nature  Timed Drop  Price: ~1 key  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_xms_double_barrel.ec785260cb80886a61b3568b38185706d6aab15e.png
+Items:
+  Name: Unique Ham Shank  Timed Drop killstreak specialized specialised  Price: ~54.54 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_ham.85f61f42e7c76e21e38f5134633522c9c5ab1b3b.png
+Items:
+  Name: Unique Cold Snap Coat  Timed Drop  Price: ~38.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/eotl_winter_coat.4be6ac8702cb4db083b8d522cb13669072a05697.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~37.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~37.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Strange Sniper Rifle Timed Drop Eyestalker  Price: ~35.77 ref  Image: https://scrap.tf/img/items/warpaint/Sniper%20Rifle_265_3_0.png
+
+Name: StarBlaze
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '8 months ago'}
+Link: https://backpack.tf/profiles/76561198950879703
+Items:
+  Name: Unusual Antarctic Eyewear  Found in Crate Massed Flies  Price: ~14 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/spr18_antarctic_eyewear.5a21520e78bb02cd256129e54953c775848583ed.png
+Items:
+  Name: Haunted Sir Shootsalot  Found in Crate  Price: ~6.3 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_sir_shootsalot.95c383bb40c809535d3794b3a29473952ad9aa15.png
+Items:
+  Name: Unusual Taunt: Panzer Pants  Purchased Holy Grail  Price: ~5.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_tank.3faa16fffd940e0dd56f082223eca64a40c74162.png
+Items:
+  Name: Unusual Taunt: The Jumping Jack  Purchased Screaming Tiger  Price: ~4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_jackhammer_rodeo.35f68e1cea7b022ede861b9da9f8f5ac3e866d23.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Purchased  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Unique Taunt: The Victory Lap  Purchased  Price: ~3.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_bumpercar.68d88d2921b5905a17fdb412780b5c88c563f411.png
+Items:
+  Name: Strange Rifleman's Regalia  Found in Crate  Price: ~3.38 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/fall17_riflemans_regalia.0b84479159f9af60f48e6d95637a3816646756f3.png
+Items:
+  Name: Unusual Taunt: Spent Well Spirits  Purchased Fountain of Delight  Price: ~3.25 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_spent_well.422a7b805fb6643466f8d3a30a6e53e85371fcef.png
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+
+Name: salt eaters anonymous
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198996692307
+Items:
+  Name: Unique Summer  Cosmetic Case  Timed Drop  Price: ~3.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/community_cosmetic_case_summer2020.e7305057ecbec996d7700283c576113ad4fe1d9b.png
+Items:
+  Name: Unique Wicked Windfall Case  Timed Drop  Price: ~0.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2020_case.4e5b01e409c30689770c1b1a098d27be0c40d9f8.png
+Items:
+  Name: Unique Scream Fortress XII War Paint Case  Timed Drop  Price: ~0.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_halloween2020.0f42d987a59e253e3f2db4f0e21581ba9c61b3b8.png
+Items:
+  Name: Unique Scream Fortress XII War Paint Case  Timed Drop  Price: ~0.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_halloween2020.0f42d987a59e253e3f2db4f0e21581ba9c61b3b8.png
+Items:
+  Name: Unique Winter  War Paint Case  Timed Drop  Price: ~0.14 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_smissmas2020.805910f6351d2e719eafb4c3d5a770b43f95c818.png
+Items:
+  Name: Unique Summer  Cosmetic Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/community_cosmetic_case_summer2021.3edee86f8e21119415c69d7a865aad94879bac61.png
+Items:
+  Name: Unique Winter  Cosmetic Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/cosmetic_case_ribbon_2020.9cb4a32f85318ca024ad7b58fde97c757c09816f.png
+Items:
+  Name: Unique Winter  War Paint Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_smissmas2019.6206634ada5fc0222e107e941ed2df98e8698cf5.png
+Items:
+  Name: Unique Winter  Cosmetic Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/cosmetic_case_ribbon_2019.43c8a52d1b10f096f4538919f7356c1af389bcc3.png
+Items:
+  Name: Unique Winter  War Paint Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_smissmas2019.6206634ada5fc0222e107e941ed2df98e8698cf5.png
+
+Name: Rio_alt
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199539190733
+
+Name: Serijiski Silovatelj
+Hours: {'hours': '0.767'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199217846053
+
+Name: sniff
+Hours: {'hours': '211.133'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198271999204
+Items:
+  Name: Unusual Unusualifier  Found in Crate Taunt: The Trackman's Touchdown  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/unusualifier.f84395e47b1321524ab85c591fa2c213ea5fe031.png
+Items:
+  Name: Unique Frying Pan  Steam Purchase killstreak specialized specialised  Price: ~1.86 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_pan.16dc18d950facd227349be67f47ea556df2cc47a.png
+Items:
+  Name: Unique Original  Timed Drop killstreak  Price: ~49.72 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_bet_rocketlauncher.82e06d0cc0c9eb80179358ebe0d85d483018de4d.png
+Items:
+  Name: Unique Soda Popper  Timed Drop killstreak  Price: ~41.35 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_soda_popper.fe0f0ee9e1386cfd38012e7057df051edabcff2b.png
+Items:
+  Name: Strange Shortstop  Found in Crate  Price: ~22.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_shortstop.c6f907b747ead370925ec367a56f369b26e2a103.png
+Items:
+  Name: Unique Ullapool Caber  Timed Drop killstreak  Price: ~19.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_caber.2d51e5d213398672527771b1fb88e337442ad695.png
+Items:
+  Name: Unique Direct Hit  Timed Drop killstreak  Price: ~17.76 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_directhit.cb9d76ebed0466a6ecd14ca74c15b68256f682c7.png
+Items:
+  Name: Genuine Ham Shank  Steam Purchase  Price: ~17.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_ham.85f61f42e7c76e21e38f5134633522c9c5ab1b3b.png
+Items:
+  Name: Unique Crit Cloak  Found in Crate  Price: ~11.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/fall17_crit_cloak.fb4ed7b45dde5404e24a975ffc9e11454400d9af.png
+Items:
+  Name: Strange Poolside Polo  Found in Crate  Price: ~10.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum20_poolside_polo.8cfd5a9bfb24746366590c86b3a64fd7b7fda01a.png
+
+Name: k a t t
+Hours: {'hours': '554.017'}
+Inventory_date: {'inventory_date': '2 minutes ago'}
+Link: https://backpack.tf/profiles/76561199208236999
+Items:
+  Name: Unusual Anger Timed Drop Steaming An Extraordinary Abundance of Tinge  Price: ~31.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_bet_brinkhood.16b34cf3a5b777028b11347262fecc6c9fc2ca0e.png
+Items:
+  Name: Strange Conniver's Kunai Timed Drop killstreak  Price: ~7.05 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_shogun_kunai.634f857ec8a13d88126ed107d855a8b8c0753a62.png
+Items:
+  Name: Unique Bill's Hat  Timed Drop An Extraordinary Abundance of Tinge  Price: ~3.26 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/demo_bill.0da332dbfce29090e63d2dcebc483f7481f6bd3d.png
+Items:
+  Name: Strange Dead Ringer Timed Drop  Price: ~1.05 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_pocket_watch.4bb1428288c15c31b18e7ed73676049befb33770.png
+Items:
+  Name: Unique Dead of Night  Timed Drop  Price: ~31.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/xms2013_jacket.b2f539fc5dac0a30c8f11b5139ce374542cb618d.png
+Items:
+  Name: Strange Turncoat Timed Drop  Price: ~30.33 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2022_turncoat.7fc3687536135ec2b17e0410e4481b25ec169ded.png
+Items:
+  Name: Strange Iron Bomber Timed Drop Civic Duty Mk.II festivized killstreak specialized specialised  Price: ~28.45 ref  Image: https://scrap.tf/img/items/warpaint/Iron%20Bomber_144_3_1.png
+Items:
+  Name: Unique Shin Shredders  Timed Drop  Price: ~16.44 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/dec15_shin_shredders.b0104770a0a3d950aed3dbe2778b311e5bb4cdc2.png
+Items:
+  Name: Unique Bunnyhopper's Ballistics Vest  Timed Drop  Price: ~9.66 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/dec15_bunnyhoppers_ballistics_vest.6dd7a58bfb8cdd5d5db26fcccf4f21259a50860d.png
+Items:
+  Name: Unique Bushman  Timed Drop  Price: ~9.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum23_bushman.057d3b80f70624053cc404b5bd93ed2a2db586f6.png
+
+Name: Tazuna
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '11 days ago'}
+Link: https://backpack.tf/profiles/76561198326172306
+Items:
+  Name: Unusual Pyromancer's Mask  Traded Circling Heart Pink as Hell  Price: ~465 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/pyro_pyromancers_mask.dd5887643908365581d33df02cb7a474c994dc6d.png
+Items:
+  Name: Collector's Conscientious Objector  Recipe output killstreak professional spells decal  Price: ~116.09 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/5072773634742634173/9D14F3E0391D1A2769AC5B9840C8F73E542EF878/
+Items:
+  Name: Unique Catastrophic Companions  Found in Crate Pink as Hell  Price: ~74.39 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2015_catastrophic_companions.84fd8d5b47a76a5a90b769aad9fb7bb393741d84.png
+Items:
+  Name: Unusual Tough Stuff Muffs  Gifted Disco Beat Down Pink as Hell  Price: ~66 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_earmuffs_style1.563d793eb6bdcf4bb0f67a4b7561ee81f2722bb5.png
+Items:
+  Name: Strange Wrench  MvM Badge completion reward killstreak professional australium  Price: ~42.8 keys  Image: /images/440/backpack/weapons/w_models/w_wrench_gold.png
+Items:
+  Name: Decorated Weapon Shotgun  War Paint Isotope Gift Wrapped festivized  Price: ~38 keys  Image: https://scrap.tf/img/items/warpaint/Shotgun_253_3_1.png
+Items:
+  Name: Decorated Weapon Medi Gun  Found in Crate Hot Blitzkrieg festivized killstreak professional  Price: ~31 keys  Image: https://scrap.tf/img/items/warpaint/Medi%20Gun_81_5_1.png
+Items:
+  Name: Strange Force-A-Nature  MvM Badge completion reward killstreak professional australium  Price: ~26.84 keys  Image: /images/440/backpack/weapons/c_models/c_double_barrel_gold.png
+Items:
+  Name: Unusual Taunt: Conga  Found in Crate Fountain of Delight  Price: ~25.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Strange Flame Thrower  MvM Badge completion reward festivized australium  Price: ~22.49 keys  Image: /images/440/backpack/weapons/c_models/c_flamethrower/c_flamethrower_gold.png
+
+Name: liskec19
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199191276682
+
+Name: Speedoe36
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561198072774823
+Items:
+  Name: Strange Scattergun Timed Drop killstreak specialized specialised australium  Price: ~44.54 keys  Image: /images/440/backpack/weapons/c_models/c_scattergun_gold.png
+Items:
+  Name: Strange Medi Gun Timed Drop australium  Price: ~42.22 keys  Image: /images/440/backpack/weapons/c_models/c_medigun/c_medigun_gold.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Timed Drop  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Strange Pistol Timed Drop Shot to Hell killstreak professional  Price: 10 keys  Image: https://scrap.tf/img/items/warpaint/Pistol_74_2_0.png
+Items:
+  Name: Unique Taunt: Rock, Paper, Scissors  Timed Drop  Price: ~1.95 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rps.7e720af90d50ede3347b0718514dfd4f1b6e1b0f.png
+Items:
+  Name: Strange Jag Timed Drop Smalltown Bringdown Mk.II  Price: ~1.92 keys  Image: https://scrap.tf/img/items/warpaint/Jag_143_1_0.png
+Items:
+  Name: Unique Taunt: Texas Twirl 'Em  Timed Drop  Price: ~1.85 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_texas_twirl_em.4b140a800cc4c42200ac366eadb8bab171a2fbec.png
+Items:
+  Name: Unique Taunt: The Homerunner's Hobby  Timed Drop  Price: ~1.75 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_the_homerunners_hobby.ae7959d359664f15f12dfeaaeec58fd20e536295.png
+Items:
+  Name: Decorated Weapon Ubersaw Timed Drop Polter-Guised  Price: ~1.52 keys  Image: https://scrap.tf/img/items/warpaint/Ubersaw_295_1_0.png
+Items:
+  Name: Unique Taunt: Rancho Relaxo  Timed Drop  Price: ~1.48 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_rancho_relaxo.a6273e59acea8c993b16fe91ef9b0bfed453ab04.png
+
+Name: ImperialFister
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198095637232
+Items:
+  Name: Haunted Chicken Kiev  Found in Crate  Price: ~23.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_heavy_robin.76f9924b153b853b37c3c68e8ba29ae690ce3f48.png
+Items:
+  Name: Unusual Taunt: Luxury Lounge  Purchased Pyrophoric Personality  Price: ~19 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_luxury_lounge.9b77cf8be81ad4cce350e6fb5af929cb80e11853.png
+Items:
+  Name: Unique Combustible Cutie  Found in Crate A Deep Commitment to Purple  Price: ~18.22 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2016_combustible_cutie.a4b5aada24167f463d1ecfa91b590c49f767c05b.png
+Items:
+  Name: Haunted Medimedes  Found in Crate  Price: ~15 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_medicmedes.93fdb973e0f8c722bff4a12faa8e12f6ab4eb5ac.png
+Items:
+  Name: Decorated Weapon War Paint  Found in Crate Dream Piped  Price: ~12.5 keys</span> <span style="color: #D32CE6">A  Image: https://scrap.tf/img/items/warpaint/War%20Paint_212_1_0.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop killstreak professional decal  Price: ~7.51 keys  Image: https://steamuserimages-a.akamaihd.net/ugc/1777209780711911113/9372CBD50D3F4A3DE77A390BCBE9B8B46081927C/
+Items:
+  Name: Unique Magical Mercenary  Purchased A Deep Commitment to Purple  Price: ~7.17 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_the_magical_mercenary.07a9f1db2440d76bd6f7a27bc6b283d7ddc470c6.png
+Items:
+  Name: Haunted Sir Shootsalot  Found in Crate  Price: ~6.3 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_sir_shootsalot.95c383bb40c809535d3794b3a29473952ad9aa15.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Purchased  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+
+Name: The Super-Sized McShizzle Man
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561198129517644
+
+Name: Johnny
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '4 months ago'}
+Link: https://backpack.tf/profiles/76561198880265246
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Unique BINOCULUS!  Found in Crate  Price: ~1.75 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2019_binoculus.fda6b3227a8c7ef29dd7e73b7e256e7000226f50.png
+Items:
+  Name: Unique Hawaiian Hangover  Found in Crate Muskelmannbraun  Price: ~54.44 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum22_hawaiian_hangover.b20ec82e0ba2140f93894bab4dbc0a7f365a260b.png
+Items:
+  Name: Strange Grenade Launcher  Found in Crate  Price: ~31.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/w_grenadelauncher.a430fe11337c5f14f68126a1d3d48fe4a67273af.png
+Items:
+  Name: Strange Barefoot Brawler  Found in Crate Noble Hatter's Violet  Price: ~11.81 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum22_barefoot_brawler.1e8fde486244bb9e49008cde99a3a4ba65a3c64b.png
+Items:
+  Name: Strange Silver Botkiller Stickybomb Launcher Mk.I  MvM Badge completion reward  Price: ~6.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/fob_h_stickybomb.5e9be44dc0ded5c76e38ce16d9f883e308ab5b59.png
+Items:
+  Name: Unique AWPer Hand  Crafted  Price: ~4.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_csgo_awp.44054e3d0e231493fc286ce6f365b14e4b1b3260.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop  Price: ~4.83 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_picket.154051b579a1f9930968b832f55db42476ffb555.png
+Items:
+  Name: Unique Conscientious Objector  Timed Drop decal  Price: ~4.83 ref  Image: https://steamuserimages-a.akamaihd.net/ugc/1841408580102879769/F8538DBA6434C3F98C34391528AB44FC5C0E776A/
+
+Name: 27Pow
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561199171189237
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+Items:
+  Name: Unique Fortified Compound  Timed Drop killstreak specialized specialised  Price: ~55.56 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_bow_thief.92137c75e9b97b0f59d6c64471dd60df267b48a9.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Purchased  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+
+Name: flopa fish
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199472113686
+
+Name: 💟Sparky The Oni💟
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561198288519218
+Items:
+  Name: Strange Knife Timed Drop Dressed to Kill  Price: ~14.87 keys  Image: https://scrap.tf/img/items/warpaint/Knife_78_1_0.png
+Items:
+  Name: Decorated Weapon Knife Timed Drop Horror Holiday  Price: ~5.5 keys  Image: https://scrap.tf/img/items/warpaint/Knife_239_4_0.png
+Items:
+  Name: Unique Onimann  Timed Drop Color No. --  Price: ~2.15 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2022_onimann.8522dab8c25696d551f77a3d1fdcebdf70f8d5d1.png
+Items:
+  Name: Genuine Stainless Pot  Timed Drop  Price: ~1.05 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/soldier_pot.b07c9f001ee8f838ae3a61da554b36f649619465.png
+Items:
+  Name: Unique Festive Force-A-Nature  Timed Drop  Price: ~1 key  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_xms_double_barrel.ec785260cb80886a61b3568b38185706d6aab15e.png
+Items:
+  Name: Unique Ham Shank  Timed Drop killstreak specialized specialised  Price: ~54.54 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_ham.85f61f42e7c76e21e38f5134633522c9c5ab1b3b.png
+Items:
+  Name: Unique Cold Snap Coat  Timed Drop  Price: ~38.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/eotl_winter_coat.4be6ac8702cb4db083b8d522cb13669072a05697.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~37.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~37.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Strange Sniper Rifle Timed Drop Eyestalker  Price: ~35.77 ref  Image: https://scrap.tf/img/items/warpaint/Sniper%20Rifle_265_3_0.png
+
+Name: StarBlaze
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '8 months ago'}
+Link: https://backpack.tf/profiles/76561198950879703
+Items:
+  Name: Unusual Antarctic Eyewear  Found in Crate Massed Flies  Price: ~14 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/spr18_antarctic_eyewear.5a21520e78bb02cd256129e54953c775848583ed.png
+Items:
+  Name: Haunted Sir Shootsalot  Found in Crate  Price: ~6.3 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hw2013_sir_shootsalot.95c383bb40c809535d3794b3a29473952ad9aa15.png
+Items:
+  Name: Unusual Taunt: Panzer Pants  Purchased Holy Grail  Price: ~5.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_tank.3faa16fffd940e0dd56f082223eca64a40c74162.png
+Items:
+  Name: Unusual Taunt: The Jumping Jack  Purchased Screaming Tiger  Price: ~4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_jackhammer_rodeo.35f68e1cea7b022ede861b9da9f8f5ac3e866d23.png
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Purchased  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Unique Taunt: The Victory Lap  Purchased  Price: ~3.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_bumpercar.68d88d2921b5905a17fdb412780b5c88c563f411.png
+Items:
+  Name: Strange Rifleman's Regalia  Found in Crate  Price: ~3.38 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/fall17_riflemans_regalia.0b84479159f9af60f48e6d95637a3816646756f3.png
+Items:
+  Name: Unusual Taunt: Spent Well Spirits  Purchased Fountain of Delight  Price: ~3.25 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_spent_well.422a7b805fb6643466f8d3a30a6e53e85371fcef.png
+Items:
+  Name: Unique Taunt: The Schadenfreude  Purchased  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+Items:
+  Name: Unique Taunt: Conga  Purchased  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_conga.96acf336123d65a39bd2145311301435453810c5.png
+
+Name: salt eaters anonymous
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198996692307
+Items:
+  Name: Unique Summer  Cosmetic Case  Timed Drop  Price: ~3.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/community_cosmetic_case_summer2020.e7305057ecbec996d7700283c576113ad4fe1d9b.png
+Items:
+  Name: Unique Wicked Windfall Case  Timed Drop  Price: ~0.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2020_case.4e5b01e409c30689770c1b1a098d27be0c40d9f8.png
+Items:
+  Name: Unique Scream Fortress XII War Paint Case  Timed Drop  Price: ~0.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_halloween2020.0f42d987a59e253e3f2db4f0e21581ba9c61b3b8.png
+Items:
+  Name: Unique Scream Fortress XII War Paint Case  Timed Drop  Price: ~0.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_halloween2020.0f42d987a59e253e3f2db4f0e21581ba9c61b3b8.png
+Items:
+  Name: Unique Winter  War Paint Case  Timed Drop  Price: ~0.14 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_smissmas2020.805910f6351d2e719eafb4c3d5a770b43f95c818.png
+Items:
+  Name: Unique Summer  Cosmetic Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/community_cosmetic_case_summer2021.3edee86f8e21119415c69d7a865aad94879bac61.png
+Items:
+  Name: Unique Winter  Cosmetic Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/cosmetic_case_ribbon_2020.9cb4a32f85318ca024ad7b58fde97c757c09816f.png
+Items:
+  Name: Unique Winter  War Paint Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_smissmas2019.6206634ada5fc0222e107e941ed2df98e8698cf5.png
+Items:
+  Name: Unique Winter  Cosmetic Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/cosmetic_case_ribbon_2019.43c8a52d1b10f096f4538919f7356c1af389bcc3.png
+Items:
+  Name: Unique Winter  War Paint Case  Timed Drop  Price: ~0.08 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_smissmas2019.6206634ada5fc0222e107e941ed2df98e8698cf5.png
+
+Name: Rio_alt
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199539190733
+
+Name: 神 Randym
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199534650189
+
+Name: John marston real
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': 'less than a minute ago'}
+Link: https://backpack.tf/profiles/76561199389867937
+Items:
+  Name: Unique Taunt: Kazotsky Kick  Timed Drop  Price: ~3.6 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/taunt_russian.2234d1a68caef0192e20151f9b0e76cd2fcc814c.png
+Items:
+  Name: Unique Taunt: The Schadenfreude  Timed Drop  Price: ~2.9 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_laugh_taunt.c39eefee7e62b6daccc4f9233e11eaf6f8fc06dc.png
+Items:
+  Name: Genuine Alien Cranium  Timed Drop  Price: ~1.25 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/ai_head.5544bffaefb8f2751d385883cc41e0faa24b99f7.png
+Items:
+  Name: Genuine Xeno Suit  Timed Drop  Price: ~51.89 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/ai_legs.d7a10a08c9fbf70a22a2d09c846c994f7b8bf979.png
+Items:
+  Name: Genuine Biomech Backpack  Timed Drop  Price: ~32.22 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/ai_body.993bdb59cae395719ea7f27f98db8df298c4922d.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Unique Tour of Duty Ticket  Timed Drop  Price: ~27.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/mvm_ticket.174c8f33d98ff44117cce8ed73a689bbd2328281.png
+Items:
+  Name: Strange Shotgun Timed Drop Civic Duty Mk.II  Price: ~25.88 ref  Image: https://scrap.tf/img/items/warpaint/Shotgun_144_1_0.png
+Items:
+  Name: Unique Diplomat  Timed Drop  Price: ~17.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/dec15_diplomat.517c339fc885c0ef429efd35cb55b49f220f6ba9.png
+Items:
+  Name: Unique Sub Zero Suit  Timed Drop  Price: ~16.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/xms2013_arctic_suit.5c83569ea7f7e2782b4c91b5a9cad07786329b6d.png
+
+Name: Radwlado
+Hours: {'hours': '0'}
+Inventory_date: {'inventory_date': '3 years ago'}
+Link: https://backpack.tf/profiles/76561198026832801
+Items:
+  Name: Unique End of the Line Community Crate  Timed Drop  Price: ~5.67 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/eotl_crate.eff87fcb3f5d3ba99ec0482d8a94d549213de0a5.png
+Items:
+  Name: Unique Violet Vermin Case  Timed Drop  Price: ~5.66 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2018_case.1f12abdd8409cbf24ddf838278dc4436918529a7.png
+Items:
+  Name: Unique Violet Vermin Case  Timed Drop  Price: ~5.66 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2018_case.1f12abdd8409cbf24ddf838278dc4436918529a7.png
+Items:
+  Name: Unique Scream Fortress X War Paint Case  Timed Drop  Price: ~2.55 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_halloween2018.d4a6cf594063cced0613b6e9c7b09202ed01ec1f.png
+Items:
+  Name: Unique Scream Fortress X War Paint Case  Timed Drop  Price: ~2.55 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/weapons_case_workshop_paintkit_halloween2018.d4a6cf594063cced0613b6e9c7b09202ed01ec1f.png
+Items:
+  Name: Unique Spooky Spoils Case  Timed Drop  Price: ~0.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2019_case.dcc61405d34fe30b5f205d8f6fdb30479256892f.png
+Items:
+  Name: Unique Spooky Spoils Case  Timed Drop  Price: ~0.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2019_case.dcc61405d34fe30b5f205d8f6fdb30479256892f.png
+Items:
+  Name: Unique Spooky Spoils Case  Timed Drop  Price: ~0.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2019_case.dcc61405d34fe30b5f205d8f6fdb30479256892f.png
+Items:
+  Name: Unique Spooky Spoils Case  Timed Drop  Price: ~0.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2019_case.dcc61405d34fe30b5f205d8f6fdb30479256892f.png
+Items:
+  Name: Unique Spooky Spoils Case  Timed Drop  Price: ~0.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/halloween2019_case.dcc61405d34fe30b5f205d8f6fdb30479256892f.png
+
+Name: Millieror64
+Hours: {'hours': '0'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199187065395
+
+Name: Serijiski Silovatelj
+Hours: {'hours': '0.767'}
+Inventory_date: 
+Link: https://backpack.tf/profiles/76561199217846053
+
+Name: sniff
+Hours: {'hours': '211.133'}
+Inventory_date: {'inventory_date': 'about a year ago'}
+Link: https://backpack.tf/profiles/76561198271999204
+Items:
+  Name: Unusual Unusualifier  Found in Crate Taunt: The Trackman's Touchdown  Price: ~2.4 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/unusualifier.f84395e47b1321524ab85c591fa2c213ea5fe031.png
+Items:
+  Name: Unique Frying Pan  Steam Purchase killstreak specialized specialised  Price: ~1.86 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/all_pan.16dc18d950facd227349be67f47ea556df2cc47a.png
+Items:
+  Name: Unique Original  Timed Drop killstreak  Price: ~49.72 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_bet_rocketlauncher.82e06d0cc0c9eb80179358ebe0d85d483018de4d.png
+Items:
+  Name: Unique Soda Popper  Timed Drop killstreak  Price: ~41.35 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_soda_popper.fe0f0ee9e1386cfd38012e7057df051edabcff2b.png
+Items:
+  Name: Strange Shortstop  Found in Crate  Price: ~22.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_shortstop.c6f907b747ead370925ec367a56f369b26e2a103.png
+Items:
+  Name: Unique Ullapool Caber  Timed Drop killstreak  Price: ~19.28 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_caber.2d51e5d213398672527771b1fb88e337442ad695.png
+Items:
+  Name: Unique Direct Hit  Timed Drop killstreak  Price: ~17.76 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_directhit.cb9d76ebed0466a6ecd14ca74c15b68256f682c7.png
+Items:
+  Name: Genuine Ham Shank  Steam Purchase  Price: ~17.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_ham.85f61f42e7c76e21e38f5134633522c9c5ab1b3b.png
+Items:
+  Name: Unique Crit Cloak  Found in Crate  Price: ~11.94 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/fall17_crit_cloak.fb4ed7b45dde5404e24a975ffc9e11454400d9af.png
+Items:
+  Name: Strange Poolside Polo  Found in Crate  Price: ~10.5 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum20_poolside_polo.8cfd5a9bfb24746366590c86b3a64fd7b7fda01a.png
+
+Name: k a t t
+Hours: {'hours': '554.017'}
+Inventory_date: {'inventory_date': '2 minutes ago'}
+Link: https://backpack.tf/profiles/76561199208236999
+Items:
+  Name: Unusual Anger Timed Drop Steaming An Extraordinary Abundance of Tinge  Price: ~31.5 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_bet_brinkhood.16b34cf3a5b777028b11347262fecc6c9fc2ca0e.png
+Items:
+  Name: Strange Conniver's Kunai Timed Drop killstreak  Price: ~7.05 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_shogun_kunai.634f857ec8a13d88126ed107d855a8b8c0753a62.png
+Items:
+  Name: Unique Bill's Hat  Timed Drop An Extraordinary Abundance of Tinge  Price: ~3.26 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/demo_bill.0da332dbfce29090e63d2dcebc483f7481f6bd3d.png
+Items:
+  Name: Strange Dead Ringer Timed Drop  Price: ~1.05 keys  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/c_pocket_watch.4bb1428288c15c31b18e7ed73676049befb33770.png
+Items:
+  Name: Unique Dead of Night  Timed Drop  Price: ~31.17 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/xms2013_jacket.b2f539fc5dac0a30c8f11b5139ce374542cb618d.png
+Items:
+  Name: Strange Turncoat Timed Drop  Price: ~30.33 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/hwn2022_turncoat.7fc3687536135ec2b17e0410e4481b25ec169ded.png
+Items:
+  Name: Strange Iron Bomber Timed Drop Civic Duty Mk.II festivized killstreak specialized specialised  Price: ~28.45 ref  Image: https://scrap.tf/img/items/warpaint/Iron%20Bomber_144_3_1.png
+Items:
+  Name: Unique Shin Shredders  Timed Drop  Price: ~16.44 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/dec15_shin_shredders.b0104770a0a3d950aed3dbe2778b311e5bb4cdc2.png
+Items:
+  Name: Unique Bunnyhopper's Ballistics Vest  Timed Drop  Price: ~9.66 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/dec15_bunnyhoppers_ballistics_vest.6dd7a58bfb8cdd5d5db26fcccf4f21259a50860d.png
+Items:
+  Name: Unique Bushman  Timed Drop  Price: ~9.39 ref  Image: https://steamcdn-a.akamaihd.net/apps/440/icons/sum23_bushman.057d3b80f70624053cc404b5bd93ed2a2db586f6.png
+
