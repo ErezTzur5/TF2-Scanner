@@ -41,6 +41,6 @@ Visual representation(prices shown too):
 ![Capture3](https://github.com/ErezTzur5/TF2-Scanner/assets/141019783/74a381d0-d0af-46a0-add9-9f05dc407225)
 
 
-notes: i didnt publish the full-code yet in the future i probably will
+notes: i didnt publish the full-code yet. in the future if people request
 
 Discord: erezur#4734
